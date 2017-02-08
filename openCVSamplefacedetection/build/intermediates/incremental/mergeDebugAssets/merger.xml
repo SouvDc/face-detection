@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\App\asWorkspace\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection\openCVLibrary320\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\App\asWorkspace\face-detection\openCVSamplefacedetection\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\App\asWorkspace\face-detection\openCVSamplefacedetection\src\debug\assets"/></dataSet></merger>

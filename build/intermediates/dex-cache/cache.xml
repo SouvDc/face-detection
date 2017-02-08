@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\App\asWorkspace\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection\openCVLibrary320\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f1acb9d1c9663b5750f3771880ce6cd3eb7b98e">
+        <dex dex="D:\App\asWorkspace\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\face-detection-openCVLibrary320-unspecified_01bfa83a3f04cf556bd43c350f4025d0eb65196a.jar" />
+    </item>
+
+</items>
